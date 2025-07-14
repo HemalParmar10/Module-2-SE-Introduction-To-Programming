@@ -1,0 +1,6 @@
+Q: Research and provide three real-world applications where C programming is extensively used, such as in embedded systems, operating systems, or game development. 
+
+A: Real-world applications of C programming: 
+  1. Operating Systems: Windows, UNIX, Linux kernels are mostly written in C. 
+  2. Embedded Systems: Microcontroller programming for cars, washing machines, IoT devices. 
+  3. Game Development: Game engines (like older versions of Unreal Engine) use C for high performance.
